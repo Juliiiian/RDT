@@ -15,6 +15,7 @@ Have a little program that copies your files like dll, plugins into the server f
 
 ## Next todos
 
+-   [ ] handle rust server in rust
+    -   problem is that the stdout cant read the stuff after initial console fill (ig fp uses some win api, since they also have sever stats later at runtime)
 -   [ ] creating main ui (header and co)
 -   [ ] basic copy machanic
--   [ ] handle rust server in rust
