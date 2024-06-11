@@ -1,5 +1,10 @@
 <script lang="ts">
+	import { listen } from '@tauri-apps/api/event';
 	import { invoke } from '@tauri-apps/api/tauri';
+
+	listen('data', (event) => {
+		console.log(event.payload);
+	});
 
 	let output = '';
 
