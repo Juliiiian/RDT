@@ -11,7 +11,7 @@ Have a little program that copies your files like dll, plugins into the server f
 -   [ ] Automated extension build (stop server, build, copy, start server)
 -   [ ] Update and download the server files through steamcmd
 -   [ ] Option to add oxide/carbon
--   [ ] maybe option to add plugins from oxide marketplace (call them by api)
+-   [ ] maybe option to add plugins from oxide marketplace (call them by api or do the forbidden scraping)
 
 ## Next todos
 
